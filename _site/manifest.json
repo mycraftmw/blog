@@ -1,0 +1,15 @@
+{
+  "lang": "en-US",
+  "name": "Code The World!",
+  "short_name": "CodeTheWorld!",
+  "theme_color": "#24292e",
+  "background_color": "#ffffff",
+  "icons": [
+    {
+      "src": "https://static.boredpanda.com/blog/wp-content/uploads/2014/02/interesting-facts-about-love-105.jpg",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": "/",
+  "display": "standalone"
+}
